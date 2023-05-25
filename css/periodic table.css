@@ -1,0 +1,418 @@
+*{
+    margin: 0;
+}
+td{
+    width: 5vw;
+    border: 1px solid black;
+    text-align: center;
+}
+.no1{
+    border: none;
+}
+.no2{
+    background-color: yellow;
+    
+    font-size: 5vw;
+}
+.color1{
+    background-color: #ff9966;
+    color: green;
+}
+.color2{
+    background-color: skyblue;
+    color: green;
+}
+.color3{
+    background-color: violet;
+}
+.color4{
+     background-color: lightblue;
+}
+.color5{
+    background-color: brown;
+}
+.color6{
+    background-color: pink;
+}
+.color7{
+    background-color: pink;
+    color: green;
+}
+.color8{
+    background-color: pink;
+    color: green;
+}
+.color9{
+    background-color: bisque;
+    color: green;
+}
+.color10{
+    background-color: skyblue;
+    color: green;
+}
+.color11{
+    background-color: violet;
+}
+.color12{
+    background-color:lightblue;
+}
+.color13{
+    background-color:lightgreen;
+}
+.color14{
+    background-color:brown;
+}
+.color15{
+    background-color: pink;
+}
+.color16{
+    background-color: pink;
+}
+.color17{
+    background-color: bisque;
+    color: green;
+}
+.color18{
+    background-color: skyblue;
+    color: green;
+}
+.color19{
+    background-color: violet;
+}
+.color20{
+    background-color:lightblue;
+}
+.color21{
+    background-color: yellow;
+}
+.color22{
+    background-color: yellow;
+}
+.color23{
+    background-color: yellow;
+}
+.color24{
+    background-color: yellow;
+}
+.color25{
+    background-color: yellow;
+}
+.color26{
+    background-color: yellow;
+}
+.color27{
+    background-color: yellow;
+}
+.color28{
+    background-color: yellow;
+}
+.color29{
+    background-color: yellow;
+}.color30{
+    background-color: yellow;
+}
+.color31{
+    background-color: lightgreen;
+    color: blue;
+}
+.color32{
+    background-color: brown;
+}
+.color33{
+    background-color:brown;
+}
+.color34{
+    background-color: pink;
+}
+.color35{
+    background-color: bisque;
+    color: blue;
+}
+.color36{
+    background-color:skyblue ;
+    color: green;
+}
+.color37{
+    background-color:violet ;
+}
+.color38{
+    background-color:lightblue ;
+}
+.color39{
+    background-color:yellow;
+}
+.color40{
+    background-color:yellow ;
+}
+.color41{
+    background-color:yellow ;
+}
+.color42{
+    background-color:yellow ;
+}
+.color43{
+    background-color:yellow ;
+    color: red;
+}
+.color44{
+    background-color:yellow ;
+}
+.color45{
+    background-color: yellow ;
+}
+.color46{
+    background-color:yellow ;
+}
+.color47{
+    background-color:yellow ;
+}
+.color48{
+    background-color:yellow ;
+}
+.color49{
+    background-color:lightgreen ;
+}
+.color50{
+    background-color:lightgreen ;
+}
+.color51{
+    background-color:brown ;
+}
+.color52{
+    background-color:brown ;
+}
+.color53{
+    background-color:bisque ;
+}
+.color54{
+    background-color:skyblue ;
+    color: green;
+}
+.color55{
+    background-color:violet ;
+    color: blue;
+}
+.color56{
+    background-color:lightblue ;
+}
+.color00{
+    background-color:lightcyan ;
+}
+.color72{
+    background-color:yellow ;
+}
+.color73{
+    background-color:yellow ;
+}
+.color74{
+    background-color:yellow ;
+}
+.color75{
+    background-color:yellow ;
+}
+.color76{
+    background-color:yellow ;
+}
+.color77{
+    background-color:yellow ;
+}
+.color78{
+    background-color:yellow ;
+}
+.color79{
+    background-color:yellow ;
+}
+.color80{
+    background-color:yellow ;
+    color: blue;
+}
+.color81{
+    background-color:lightgreen ;
+}
+.color82{
+    background-color:lightgreen ;
+}
+.color83{
+    background-color:lightgreen ;
+}
+.color84{
+    background-color:brown ;
+}
+.color85{
+    background-color:bisque ;
+}
+.color86{
+    background-color:skyblue ;
+    color: green;
+}
+.color87{
+    background-color:violet ;
+    color: blue;
+}
+.color88{
+    background-color:lightblue ;
+}
+.color01{
+    background-color:lightcyan ;
+}
+.color104{
+    background-color:yellow ;
+    color: red;
+}
+.color105{
+    background-color:yellow ;
+    color: red;
+}
+.color106{
+    background-color:yellow ;
+    color: red;
+}
+.color107{
+    background-color:yellow ;
+}
+.color108{
+    background-color:yellow ;
+    color: red;
+}
+.color109{
+    background-color:yellow ;
+    color: red;
+}
+.color110{
+    background-color:yellow ;
+    color: red;
+}
+.color111{
+    background-color:yellow ;
+    color: red;
+}
+.color112{
+    background-color:yellow ;
+    color: red;
+}
+.color113{
+    background-color:white;
+    color: red;
+}
+.color114{
+    background-color:white;
+    color: red;
+}
+.color115{
+    background-color:white ;
+    color: red;
+}
+.color116{
+    background-color:white;
+    color: red;
+}
+.color117{
+    background-color:white ;
+    color: red;
+}
+.color118{
+    background-color:white ;
+    color: red;
+}
+.color57{
+    background-color:lightcyan ;
+}
+.color58{
+    background-color:lightcyan;
+}
+.color59{
+    background-color:lightcyan ;
+}
+.color60{
+    background-color:lightcyan ;
+}
+.color61{
+    background-color:lightcyan ;
+    color: red;
+}
+.color62{
+    background-color:lightcyan ;
+}
+.color63{
+    background-color:lightcyan ;
+}
+.color64{
+    background-color:lightcyan ;
+}
+.color65{
+    background-color:lightcyan ;
+}
+.color66{
+    background-color:lightcyan ;
+}
+.color67{
+    background-color:lightcyan ;
+}
+.color68{
+    background-color:lightcyan ;
+}
+.color69{
+    background-color:lightcyan ;
+}
+.color70{
+    background-color:lightcyan ;
+}
+.color71{
+    background-color:lightcyan ;
+}
+.color89{
+    background-color:lightcyan ;
+}
+.color90{
+    background-color:lightcyan ;
+}
+.color91{
+    background-color:lightcyan ;
+}
+.color92{
+    background-color:lightcyan ;
+}
+.color93{
+    background-color:lightcyan ;
+    color: red;
+}
+.color94{
+    background-color:lightcyan ;
+    color: red;
+}
+.color95{
+    background-color:lightcyan ;
+    color: red;
+}
+.color96{
+    background-color:lightcyan ;
+    color: red;
+}
+.color97{
+    background-color:lightcyan ;
+    color: red;
+}
+.color98{
+    background-color:lightcyan ;
+    color: red;
+}
+.color99{
+    background-color:lightcyan ;
+    color: red;
+}
+.color100{
+    background-color:lightcyan ;
+    color: red;
+}
+.color101{
+    background-color:lightcyan ;
+    color: red;
+}
+.color102{
+    background-color:lightcyan ;
+    color: red;
+}
+.color103{
+    background-color:lightcyan ;
+    color: red;
+}
